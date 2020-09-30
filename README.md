@@ -20,6 +20,7 @@ This repository contains Data structures, Algorithms and their common usecases i
 * Segment Tree (For sum) (Java + Python)   [Code](segment_Tree.py)
 * Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py) [Learn](Disjoint_Sets.md)
 * Binary Search Tree [Code](BST.py)
+* AVL Tree [Code](Avl_Tree.py)
 
 ## Learning Python ( the pythonic way)
 
