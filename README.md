@@ -8,18 +8,20 @@ This repository contains Data structures, Algorithms and their common usecases i
 
 ### Algorithms-
 
-* Dijkstra's Shortest Path Algorithm (Java + Python) [Code](DijkstraShortestReach.py)
-* Kahn's Algorithm for Topological Sort [Code](Kahns_Algo_Topologicalsort.py) [Learn](Kahns_Algo_Topologicalsort.md)
-* Depth First Search [Code](DFS.py)
-* Floyd Warshall Algorithm [Code](Floyd_Warshall_Algorithm.py) [Learn](Floyd_Warshall_Algorithm.md)
-* Longest Common Subsequence (Java) [Code](LongestCommonSubsequence.java)
-* Longest Common Substring (Java) [Code](LongestCommonSubstring.java)
+* Dijkstra's Shortest Path Algorithm (Python) [Code](Dijkstra_Shortest_Path_Algo/DijkstraShortestReach.py)
+* Kahn's Algorithm for Topological Sort [Code](Kahns_Algorithm_Topologicalsort/Kahns_Algo_Topologicalsort.py)  [Learn](Kahns_Algorithm_Topologicalsort/Kahns_Algo_Topologicalsort.md)
+* Depth First Search | [Java_Code](DFS(Java%20&%20Python)/DFS.java) | [Python_Code](DFS(Java%20&%20Python)/DFS.py)
+* Floyd Warshall Algorithm [Code](Floyd_Warshall_Algorithm/Floyd_Warshall_Algorithm.py) [Learn](Floyd_Warshall_Algorithm/Floyd_Warshall_Algorithm.md)
+* Longest Common Subsequence (Java) [Code](Longest_Common_Subsequence(Java)/LongestCommonSubsequence.java)
+* Longest Common Substring (Java) [Code](Longest_Common_Substring(Java)/LongestCommonSubstring.java)
+* Array rotation reversal method [Code](Array_rotation_reversal%20method/ArrayRotation_ReversalMethod.py)
+* Pattern Searching KMP(Knuth Morris Pratt) algorithm [Code](Pattern_searching%20KMP(Knuth%20Morris%20Pratt)_algo/KmpAlgo.py)
 
 ### Data Structures-
-* Trie Data Structure [Code](Trie_Data_Structure.py) [Learn](Trie_Data_Structure.md) 
-* Segment Tree (For sum) (Java + Python)   [Code](segment_Tree.py)
-* Union Find Data Structures (Disjoint Set Data Structure) [Code](UnionFindDS.py) [Learn](Disjoint_Sets.md)
-* Binary Search Tree [Code](BST.py)
+* Trie Data Structure [Code](Trie_Data_Structure/Trie_Data_Structure.py) [Learn](Trie_Data_Structure/Trie_Data_Structure.md) 
+* Segment Tree (For sum) | [Java_Code](Segment_Tree_For_sum_(Java%20&%20Python)/SegmentTree_sum.java) | [Python_Code](Segment_Tree_For_sum_(Java%20&%20Python)/segment_Tree.py)) 
+* Union Find Data Structures (Disjoint Set Data Structure) [Code](Disjoint_sets/UnionFindDS.py) [Learn](Disjoint_sets/Disjoint_Sets.md)
+* Binary Search Tree [Code](Binary_Search_Tree/BST.py)
 
 ## Learning Python ( the pythonic way)
 
