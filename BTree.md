@@ -16,7 +16,7 @@ The main functions which this data structure can perform are :
 
 ## Explanation / Working
 1. insertion():
-    For insertion these are the steps which have to be followed while insrting a node in the B Tree:
+    For insertion these are the steps which have to be followed while inserting a node in the B Tree:
 - Initialize x as root.
 - While x is not leaf, do following
     - Find the child of x that is going to be traversed next. Let the child be y.
