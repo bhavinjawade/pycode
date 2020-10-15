@@ -1,4 +1,4 @@
-# Dynamic Programming Python implementation of Coin  
+# Dynamic Programming Coin Change Python implementation of Coin  
 # Change problem 
 def count(S, m, n): 
   
